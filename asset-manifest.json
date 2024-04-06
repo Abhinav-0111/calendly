@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calendly/static/css/main.fbe9cd92.css",
+    "main.js": "/calendly/static/js/main.e892630f.js",
+    "static/media/anidroid.png": "/calendly/static/media/anidroid.9056f29a64e8f25d660b.png",
+    "static/media/apple.png": "/calendly/static/media/apple.187044c68f7ce526c8b8.png",
+    "index.html": "/calendly/index.html",
+    "main.fbe9cd92.css.map": "/calendly/static/css/main.fbe9cd92.css.map",
+    "main.e892630f.js.map": "/calendly/static/js/main.e892630f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbe9cd92.css",
+    "static/js/main.e892630f.js"
+  ]
+}
